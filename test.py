@@ -1,1 +1,1 @@
-print("shelva  xval mkerdi bicebsi isev")
+print("shelva  sustai")
