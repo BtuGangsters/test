@@ -1,1 +1,1 @@
-print("shelva  sustai")
+print("kvico  sustai")
